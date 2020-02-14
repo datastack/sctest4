@@ -1,4 +1,4 @@
-#Instructions
+## Instructions
 
 This project runs a API server with 4 endpoints. It runs docker containers for FLASK and MongoDB.
 
