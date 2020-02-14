@@ -10,9 +10,9 @@ Run `docker-compose up` to start the application.
 
 Default port used for http access is **8080**.
 
-### Endpoints 
+### Endpoints (GET)
 
-* /load - load data into MongoDB.
+* /load - Load data into MongoDB.
 * /metrics - Expose API metrics using prometheus client.
 * /health - Basic status 200 return for health checks.
 * / - Get random data from MongoDB.
